@@ -1,8 +1,8 @@
 from yoomoney import Authorize
 
 Authorize(
-    client_id="85A5A958FDA36EAF6C598D6DA29CD06B77D610B5ECE434B457FE0C1B0ECFB9B2",
-    redirect_uri="https://t.me/examplepayment_bot",
+    client_id="6C70B17B73BED3A4481843977688686C981C6B25DDA2EF906DDB2698702309E8",
+    redirect_uri="https://t.me/Sslovopatsanabot",
     scope=[
         "account-info",
         "operation-history",

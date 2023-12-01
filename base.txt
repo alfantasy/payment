@@ -1,1 +1,2 @@
-"id" : 637816895, "tgname" : "None", "payment_status" : 0, "bought" : 0
+"id" : 637816895, "tgid" : "None", "tgname" : "alfantasyz", "payment_status" : 1, "bought" : 1, "label_status" : "g71ob3eupv"
+"id" : 1050898927, "tgid" : "natalyadmit", "tgname" : "Наталья", "payment_status" : 1, "bought" : 1, "label_status" : "yufn1qards"
